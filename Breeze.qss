@@ -40,6 +40,9 @@
  * or with $CMAKE_INSTALLPREFIX/share/pixmaps/scantailor-universal/stylesheets/ for Linux
  */ 
 
+QGraphicsView {
+    background-color: #bcbfc2;
+}
 
 QToolTip
 {

@@ -40,6 +40,10 @@
  * or with $CMAKE_INSTALLPREFIX/share/pixmaps/scantailor-universal/stylesheets/ for Linux
  */ 
 
+QGraphicsView {
+    background-color: #76797c;
+}
+
 QToolTip
 {
     border: 0.1ex solid #eff0f1;
