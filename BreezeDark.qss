@@ -383,7 +383,6 @@ QAbstractScrollArea
 {
     border-radius: 0.2ex;
     border: 0.1ex solid #76797c;
-    background-color: transparent;
 }
 
 QScrollBar:horizontal
